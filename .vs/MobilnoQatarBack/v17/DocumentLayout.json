@@ -127,8 +127,7 @@
               "ViewState": "AQIAACgAAAAAAAAAAAAYwDAAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T14:43:19.922Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -141,8 +140,11 @@
               "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-22T15:02:57.742Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
             },
             {
               "$type": "Document",
@@ -154,12 +156,7 @@
               "RelativeToolTip": "FPISprojekatQatar\\Services\\StadionService.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-04T15:50:48.462Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+              "WhenOpened": "2024-09-04T15:50:48.462Z"
             },
             {
               "$type": "Document",
@@ -195,8 +192,7 @@
               "RelativeToolTip": "FPISprojekatQatar\\Services\\UserService.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAzwBkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T14:41:53.795Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T14:41:53.795Z"
             },
             {
               "$type": "Document",
@@ -244,8 +240,7 @@
               "RelativeToolTip": "FPISprojekatQatar\\Data\\DataContext.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAowBIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T22:17:21.817Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-28T22:17:21.817Z"
             },
             {
               "$type": "Document",
@@ -269,8 +264,7 @@
               "RelativeToolTip": "FPISprojekatQatar\\Services\\TimService.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAEwBIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T13:25:37.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-27T13:25:37.131Z"
             },
             {
               "$type": "Document",
@@ -318,8 +312,7 @@
               "RelativeToolTip": "FPISprojekatQatar\\Services\\UtakmicaService.cs",
               "ViewState": "AQIAAO8AAAAAAAAAAAAwwPkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T11:39:57.784Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T11:39:57.784Z"
             },
             {
               "$type": "Document",
@@ -416,8 +409,7 @@
               "RelativeToolTip": "FPISprojekatQatar\\DTO\\GrupaDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T15:02:47.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T15:02:47.836Z"
             },
             {
               "$type": "Document",
@@ -441,8 +433,7 @@
               "RelativeToolTip": "FPISprojekatQatar\\Interfaces\\IUserService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-22T14:40:11.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-22T14:40:11.124Z"
             }
           ]
         },

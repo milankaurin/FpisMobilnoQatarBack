@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MobilnoQatarBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f89ce570ab63ba27becd43e39be787399a48c477")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c78f4ae81769d404519b024c1bb7bf0aaaf6af9")]
 [assembly: System.Reflection.AssemblyProductAttribute("MobilnoQatarBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MobilnoQatarBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
