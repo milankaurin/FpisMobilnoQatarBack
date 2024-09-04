@@ -1,0 +1,15 @@
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\bin\Debug\net8.0\Domain.Model.dll
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\bin\Debug\net8.0\Domain.Model.pdb
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\Milan\source\repos\FPISprojekatQatar\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll

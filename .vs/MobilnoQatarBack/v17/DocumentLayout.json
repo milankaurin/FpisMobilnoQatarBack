@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\controllers\\timcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\controllers\\timcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\services\\utakmicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\services\\utakmicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\services\\timservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\services\\timservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\services\\stadionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\services\\stadionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\services\\grupaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\services\\grupaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\dto\\grupadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\dto\\grupadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\controllers\\stadioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\controllers\\stadioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\fpisprojekatqatar.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\fpisprojekatqatar.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\controllers\\grupacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\controllers\\grupacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\interfaces\\iutakmicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\interfaces\\iutakmicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\interfaces\\igrupaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\interfaces\\igrupaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\dto\\userdtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\dto\\userdtologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3620C59D-AD1F-4DBB-967D-99899D738109}|Domain.Model\\Domain.Model.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\domain.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3620C59D-AD1F-4DBB-967D-99899D738109}|Domain.Model\\Domain.Model.csproj|solutionrelative:domain.model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\dto\\utakmicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\dto\\utakmicadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\controllers\\utakmicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\controllers\\utakmicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\interfaces\\itimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\interfaces\\itimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3620C59D-AD1F-4DBB-967D-99899D738109}|Domain.Model\\Domain.Model.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\domain.model\\utakmica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3620C59D-AD1F-4DBB-967D-99899D738109}|Domain.Model\\Domain.Model.csproj|solutionrelative:domain.model\\utakmica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|c:\\users\\milan\\desktop\\mobilnoqatarback\\fpisprojekatqatar\\migrations\\20240828222648_names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA54322-D464-4330-8BD8-0D13EBB250DB}|FPISprojekatQatar\\MobilnoQatarBack.csproj|solutionrelative:fpisprojekatqatar\\migrations\\20240828222648_names.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwDAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:43:19.922Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GrupaService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Services\\GrupaService.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Services\\GrupaService.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Services\\GrupaService.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Services\\GrupaService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:57.742Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StadionService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Services\\StadionService.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Services\\StadionService.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Services\\StadionService.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Services\\StadionService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T15:50:48.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\appsettings.json",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\appsettings.json",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\appsettings.json",
+              "RelativeToolTip": "FPISprojekatQatar\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T07:29:44.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FPISprojekatQatar.http",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\FPISprojekatQatar.http",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\FPISprojekatQatar.http",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\FPISprojekatQatar.http",
+              "RelativeToolTip": "FPISprojekatQatar\\FPISprojekatQatar.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-30T07:29:40.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Services\\UserService.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Services\\UserService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAzwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:41:53.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IGrupaService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Interfaces\\IGrupaService.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Interfaces\\IGrupaService.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Interfaces\\IGrupaService.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Interfaces\\IGrupaService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:32:57.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDTOLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\DTO\\UserDTOLogin.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\DTO\\UserDTOLogin.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\DTO\\UserDTOLogin.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\DTO\\UserDTOLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:30:27.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240828222648_names.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Migrations\\20240828222648_names.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Migrations\\20240828222648_names.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Migrations\\20240828222648_names.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Migrations\\20240828222648_names.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:26:49.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Data\\DataContext.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Data\\DataContext.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T22:17:21.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ITimService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Interfaces\\ITimService.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Interfaces\\ITimService.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Interfaces\\ITimService.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Interfaces\\ITimService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:26:27.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Services\\TimService.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Services\\TimService.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Services\\TimService.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Services\\TimService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAEwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:25:37.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUtakmicaService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Interfaces\\IUtakmicaService.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Interfaces\\IUtakmicaService.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Interfaces\\IUtakmicaService.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Interfaces\\IUtakmicaService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T13:22:53.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Utakmica.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\Domain.Model\\Utakmica.cs",
+              "RelativeDocumentMoniker": "Domain.Model\\Utakmica.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\Domain.Model\\Utakmica.cs",
+              "RelativeToolTip": "Domain.Model\\Utakmica.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:56:29.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UtakmicaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\DTO\\UtakmicaDTO.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\DTO\\UtakmicaDTO.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\DTO\\UtakmicaDTO.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\DTO\\UtakmicaDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T10:56:08.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UtakmicaService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Services\\UtakmicaService.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Services\\UtakmicaService.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Services\\UtakmicaService.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Services\\UtakmicaService.cs",
+              "ViewState": "AQIAAO8AAAAAAAAAAAAwwPkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:39:57.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FPISprojekatQatar\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwCcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T16:08:15.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\Domain.Model\\User.cs",
+              "RelativeDocumentMoniker": "Domain.Model\\User.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\Domain.Model\\User.cs",
+              "RelativeToolTip": "Domain.Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:16:12.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\DTO\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T18:15:54.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UtakmicaController.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Controllers\\UtakmicaController.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Controllers\\UtakmicaController.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Controllers\\UtakmicaController.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Controllers\\UtakmicaController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAywHUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:04:31.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TimController.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Controllers\\TimController.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Controllers\\TimController.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Controllers\\TimController.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Controllers\\TimController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwDgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:04:28.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StadionController.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Controllers\\StadionController.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Controllers\\StadionController.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Controllers\\StadionController.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Controllers\\StadionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:04:19.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GrupaController.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Controllers\\GrupaController.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Controllers\\GrupaController.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Controllers\\GrupaController.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Controllers\\GrupaController.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAADwv1cAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:43:12.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GrupaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\DTO\\GrupaDTO.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\DTO\\GrupaDTO.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\DTO\\GrupaDTO.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\DTO\\GrupaDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T15:02:47.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Program.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Program.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Program.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Program.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAD4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:47:41.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "FPISprojekatQatar\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Milan\\Desktop\\MobilnoQatarBack\\FPISprojekatQatar\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "FPISprojekatQatar\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:40:11.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

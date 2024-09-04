@@ -1,0 +1,6 @@
+@FPISprojekatQatar_HostAddress = http://localhost:5148
+
+GET {{FPISprojekatQatar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
